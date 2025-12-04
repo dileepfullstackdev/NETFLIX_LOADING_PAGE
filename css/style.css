@@ -259,6 +259,7 @@ img{
     .showcase{
         height: 70vh;
         background:green;
+        z-index:3;
     }
     .hide-sm{
         display: none;
