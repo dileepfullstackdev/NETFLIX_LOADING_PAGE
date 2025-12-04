@@ -258,6 +258,8 @@ img{
 @media(max-width:900px){
     .showcase{
         height: 70vh;
+    }
+    .showcase-top{
         background:green;
         z-index:3;
     }
@@ -265,13 +267,8 @@ img{
         display: none;
     }
     .showcase-top img{
-        top:10%;
+        top:0%;
         left:5%;
-        transform:translate(0);
-    }
-    .showcase-top a{
-        top:10%;
-        right:0;
         transform:translate(0);
     }
     .showcase-content h1{
