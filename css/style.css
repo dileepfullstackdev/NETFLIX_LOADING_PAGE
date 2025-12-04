@@ -267,6 +267,11 @@ img{
         left:5%;
         transform:translate(0);
     }
+    .showcase-top a{
+    top:10%;
+    right:0;
+    transform:translate(0);
+}
     .showcase-content h1{
         font-size: 3.7rem;
         line-height: 1;
